@@ -1,0 +1,7 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+.arrow {
+  margin-inline: 30px;
+}
